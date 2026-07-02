@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-This started as a simple class 11 project — a menu-driven bank simulator that ran entirely in memory and forgot everything the moment you closed it. This version rebuilds it properly: **real persistence, clean architecture, and rules that actually get enforced.**
+This started as a simple 1st year project — a menu-driven bank simulator that ran entirely in memory and forgot everything the moment you closed it. This version rebuilds it properly: **real persistence, clean architecture, and rules that actually get enforced.**
 
 Every account, deposit, withdrawal, and transfer is written straight into an Excel workbook (`bank_data.xlsx`) that you can open and inspect at any time — no import/export step needed. 🗂️
 
