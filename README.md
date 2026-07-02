@@ -101,9 +101,3 @@ python3 main.py
 ## 📄 License
 
 Distributed under the MIT License.
-
-<div align="center">
-
-Made with 🧠 + ☕ by [Ananya](https://github.com/ananyaacodes)
-
-</div>
